@@ -1,0 +1,19 @@
+.ticket {
+    background-color: #ffffff;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    padding: 10px;
+    margin-bottom: 10px;
+  }
+  
+  .ticket-title {
+    font-weight: bold;
+    font-size: 1.2em;
+  }
+  
+  .ticket-details {
+    margin-top: 5px;
+  }
+  
+  /* Add any additional CSS styles for ticket components as needed */
+  

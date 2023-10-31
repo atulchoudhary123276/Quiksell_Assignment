@@ -1,0 +1,37 @@
+.App {
+    text-align: center;
+    font-family: Arial, sans-serif;
+  }
+  
+  h1 {
+    font-size: 24px;
+    margin: 20px 0;
+  }
+  
+  /* Add styling for your control buttons here */
+  
+  /* Example button styling */
+  .button {
+    background-color: #007BFF;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    margin: 5px;
+    cursor: pointer;
+    border-radius: 5px;
+  }
+  
+  /* Add styling for your control elements, like dropdowns, here */
+  
+  /* Example dropdown styling */
+  .dropdown {
+    background-color: #f0f0f0;
+    border: 1px solid #ccc;
+    padding: 5px;
+    border-radius: 5px;
+    width: 150px;
+  }
+  
+  /* Add any additional CSS styles for your controls as needed */
+  
+  

@@ -1,0 +1,44 @@
+.kanban-board {
+  display: flex;
+  justify-content: space-between;
+  
+}
+  
+  /* Add styles for your Kanban board columns here */
+  
+  /* Example column styling */
+  .column {
+    flex: 1;
+    /* min-width: 300px; */
+    background-color: #f9f9f9;
+    border: 1px solid #920707;
+    border-radius: 5px;
+    padding: 10px;
+  }
+  
+  /* Add styles for your Kanban tickets here */
+  
+  /* Example ticket styling */
+  .ticket {
+    background-color: #ffffff;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    padding: 10px;
+    margin-bottom: 10px;
+  }
+  
+  /* Add ticket content styling as needed */
+  
+  /* Example ticket title styling */
+  .ticket-title {
+    font-weight: bold;
+  }
+  
+  /* Example ticket details styling */
+  .ticket-details {
+    margin-top: 5px;
+  }
+  
+  /* Add more CSS styles to customize your Kanban board appearance */
+  
+  
